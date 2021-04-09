@@ -13,4 +13,4 @@ If we want to add a file to git , firstly we have to stage that file for committ
 
 
 
-
+<img src = "new.png">
